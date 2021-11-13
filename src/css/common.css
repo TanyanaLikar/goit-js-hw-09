@@ -16,3 +16,16 @@ img {
   display: block;
   max-width: 100%;
 }
+.btn{
+  text-decoration: none;
+  color: #fff;
+  background-color: #26a69a;
+  text-align: center; 
+  cursor: pointer;
+  border: none;
+  border-radius: 2px;
+  display: inline-block;
+  height: 36px;  
+  padding: 0 30px;
+  text-transform: uppercase; 
+ }
